@@ -19,7 +19,7 @@ void stampaMenu()
 	cout << "||   scegli una opzione     || \n";
 	cout << "============================== \n";
 	cout << "1) Inserisci una parola \n";
-    cout << "2) Genera una parola  \n";
+   	cout << "2) Genera una parola  \n";
    
 
 }
